@@ -1,13 +1,5 @@
 # ML Challenge 2025: Smart Product Pricing Solution
 
-**Team Name:** Team Butter Roti
-
-**Team Members:** Arpit Raj, Ayush Raj, Prasad Mhaske, Vidhan Bansal
-
-**Submission Date:** 2025-10-12 (YYYY-MM-DD)
-
----
-
 ## 1. Executive Summary
 
 This solution presents a deep learning approach to predict product prices from textual descriptions. We utilize a BI Long Short-Term Memory (BI-LSTM) network, which is adept at understanding sequential data, coupled with a custom text preprocessing pipeline to transform raw product catalog content into a model-readable format.
